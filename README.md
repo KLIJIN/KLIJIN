@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a beginner frontend web developer
+## Hi there 👋 I'm a beginner frontend web developer
 
 ### Languages and Tools:
 
@@ -57,23 +57,6 @@
 <td align="center">React SPA</td>
 </tr>
 
-<tr>
-<td><a href="https://klijin.github.io/-Some-Landing-Page/"> Easybank landing page </a></td>
-<td>  HTML, SCSS, JS </td>
-<td align="center"> Landing Page </td>
-</tr>
-
-<tr>
-<td><a href="https://klijin.github.io/Mogo_site/">  Mogo Site </a></td>
-<td>  HTML, CSS </td>
-<td align="center"> Landing Page </td>
-</tr>
-
-<tr>
-<td><a href="https://klijin.github.io/few-pages-landing/">  few-pages-landing </a></td>
-<td>  HTML, SCSS, JS </td>
-<td align="center"> Landing Page </td>
-</tr>
 
 </tbody>
 </table>
