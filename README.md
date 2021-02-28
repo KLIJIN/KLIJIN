@@ -2,8 +2,11 @@
 
 ### Languages and Tools:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)![ReactJS](https://img.shields.io/badge/-ReactJS-090909?style=for-the-badge&logo=react)![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)![vscode](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=visual-studio-code)
-
+ -  JavaScript 
+ - React, React-Hooks, React-Router, Redux
+ - CSS, SASS/SCSS,  Flex, Grid
+ - Git, Webpack, Gulp
+ 
 ### My Projects:
 
 <div class="w3-responsive">
