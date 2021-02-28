@@ -6,6 +6,9 @@
  - React, React-Hooks, React-Router, Redux
  - CSS, SASS/SCSS,  Flex, Grid
  - Git, Webpack, Gulp
+
+### Follow Me:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/D_For_You)
  
 ### My Projects:
 
