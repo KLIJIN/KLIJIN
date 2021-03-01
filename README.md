@@ -5,7 +5,7 @@
  -  JavaScript 
  - React, React-Hooks, React-Router, Redux
  - CSS, SASS/SCSS,  Flex, Grid
- - Git, Webpack, Gulp
+ - Git, Webpack, VSCode
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-61DAFB?logo=telegram)](https://t.me/D_For_You)
@@ -15,7 +15,7 @@
 
  [<img  width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-![Image of Yaktocat width="20px"](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+
 
 
  
