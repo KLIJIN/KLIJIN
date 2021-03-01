@@ -2,7 +2,7 @@
 
 ### Languages and Tools:
 
- -  JavaScript 
+ - JavaScript 
  - React, React-Hooks, React-Router, Redux
  - CSS, SASS/SCSS,  Flex, Grid
  - Git, Webpack, VSCode
@@ -13,9 +13,9 @@
 
 
 
- [<img  width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+ <img  width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-
+ <img  width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 
  
