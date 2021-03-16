@@ -8,10 +8,11 @@
  - Git, Webpack, VSCode
 
 <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />   <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />    <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />    <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />     <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-<img width="24px" src="http://www.w3.org/2000/svg" /> 
 
-<img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />    <img  width="24px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /> <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />    <img  width="24px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
- 
+
+<img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />    <img  width="24px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /> <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" /> 
+<img  width="24px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
+ <img width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /> 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-61DAFB?logo=telegram)](https://t.me/D_For_You)
  
