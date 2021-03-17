@@ -26,9 +26,9 @@
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th width="40%">Проект</th>
-<th width="60%">Технологии</th>
-<th>Категория</th>
+<th width="30%">Проект</th>
+<th width="50%">Технологии</th>
+<th width="20%"  >Категория</th>
 </tr>
 </thead>
 <tbody>
