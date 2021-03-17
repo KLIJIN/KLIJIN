@@ -34,12 +34,6 @@
 <tbody>
 
 <tr>
-<td> Shopping Cart</td>
-<td> react, typeScript, styled-components, material-ui </td>
-<td align="center"> React-TS SPA</td>
-</tr>
-
-<tr>
 <td><a href="https://klijin.github.io/clothing_shop/">Clothing Shop</a></td>
 <td>react, react-redux, react-router, redux-logger, reselect</td>
 <td align="center">React SPA</td>
@@ -64,6 +58,11 @@
 <td align="center">React SPA</td>
 </tr>
 
+<tr>
+ <td><a href="https://klijin.github.io/ShoppingCart/">Shopping Cart</a></td>
+<td> react, typeScript, styled-components, material-ui </td>
+<td align="center"> React-TS SPA</td>
+</tr>
 
 </tbody>
 </table>
