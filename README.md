@@ -40,7 +40,7 @@
 </tr>
 
 <tr>
-<td><a href="https://klijin.github.io/CocktailsDB_React_SPA/"> Netflix Clone</a></td>
+<td><a href="https://klijin.github.io/netflix-clone/"> Netflix Clone</a></td>
 <td>  React, React-Router, Context API </td>
 <td align="center">React SPA</td>
 </tr>
