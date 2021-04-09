@@ -70,7 +70,7 @@
 </br>
 
 | Проект           | GitHub Pages  | Технологии                                               |  Категория |
-| -------------------|:-----------------:|:---------------------------------------------------: |---------------:|
+| -------------------|:-----------------:|:---------------------------------------------------: |----------------------------------:|
 | Clothing Shop    | right-aligned |react, react-redux, react-router, redux-logger, reselect  | React SPA    |
 | Netflix Clone    | centered      | React, React-Router, Context API                         |React SPA      |
 | Kanban Dashboard | are neat      |eact, redux, react-beautiful-dnd, SCSS                    | React SPA      |
