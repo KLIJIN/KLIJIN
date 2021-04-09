@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a beginner frontend web developer
+## Hi there 👋 I'm a frontend web developer
 
 ### Languages and Tools:
 
