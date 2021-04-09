@@ -69,8 +69,12 @@
 </div>
 </br>
 
-| Проект        | Are           | Are               |           Cool  |
-| ------------- |:-------------:|  :-------------: |-----:|
-| col 3 is      | right-aligned | right-aligned  | $1600 |
-| col 2 is      | centered      |   centered              |$12 |
-| zebra stripes | are neat      |    are neat             | $1 |
+| Проект           | GitHub Pages  | Технологии     |  Категория |
+| -----------------|:-------------:|:-------------: |-----------:|
+| Clothing Shop    | right-aligned | right-aligned  | $1600      |
+| Netflix Clone    | centered      | centered       |$12         |
+| Kanban Dashboard | are neat      | are neat       | $1         |
+| Cocktails DB     | are neat      | are neat       | $1         |
+| Shopping Cart     | are neat      | are neat       | $1         |
+| Others in Repo... | ...      | ...       | ...        |
+ 
