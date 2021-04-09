@@ -22,7 +22,7 @@
 ### My Projects:
 
 <div class="w3-responsive">
-
+<!---
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
@@ -66,6 +66,7 @@
 
 </tbody>
 </table>
+-->
 </div>
 </br>
 
