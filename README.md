@@ -75,8 +75,8 @@
 | Netflix Clone    | centered      | React, React-Router, Context API                         |React SPA      |
 | Kanban Dashboard | are neat      |eact, redux, react-beautiful-dnd, SCSS                    | React SPA      |
 | <a href="https://github.com/KLIJIN/CocktailsDB_React_SPA/"> Cocktails DB </a> | <a href="https://klijin.github.io/CocktailsDB_React_SPA/"> Git Pages Cocktails DB </a>| react, React-Router, Context API|  React SPA |
-| <a https://github.com/KLIJIN/ShoppingCart"> Shopping Cart </a> | Shopping Cart  | react, typeScript, styled-components, material-ui|  TypeScript, React SPA |
-| <a https://github.com/KLIJIN/ShoppingCart"> Shopping Cart </a> | Shopping Cart  | react, typeScript, styled-components, material-ui|  TypeScript, React SPA |
+| <a href="https://github.com/KLIJIN/ShoppingCart"> Shopping Cart </a> | Shopping Cart  | react, typeScript, styled-components, material-ui|  TypeScript, React SPA |
+| <a href="https://github.com/KLIJIN/ShoppingCart"> Shopping Cart </a> | Shopping Cart  | react, typeScript, styled-components, material-ui|  TypeScript, React SPA |
 |Others in Repo... | ...          | ...                                                      | ...          |
 
  
