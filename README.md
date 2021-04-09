@@ -68,3 +68,9 @@
 </table>
 </div>
 </br>
+
+| Проект        | Are           | Are               |           Cool  |
+| ------------- |:-------------:|  :-------------: |-----:|
+| col 3 is      | right-aligned | right-aligned  | $1600 |
+| col 2 is      | centered      |   centered              |$12 |
+| zebra stripes | are neat      |    are neat             | $1 |
