@@ -74,7 +74,7 @@
 | Clothing Shop    | right-aligned |react, react-redux, react-router, redux-logger, reselect  | React SPA    |
 | Netflix Clone    | centered      | React, React-Router, Context API                         |React SPA      |
 | Kanban Dashboard | are neat      |eact, redux, react-beautiful-dnd, SCSS                    | React SPA      |
-| Cocktails DB     | are neat      | react, React-Router, Context API                         | React SPA        |
+| <a href="https://github.com/KLIJIN/CocktailsDB_React_SPA/"> Cocktails DB </a>     | <a href="https://klijin.github.io/CocktailsDB_React_SPA/"> Cocktails DB </a>      | react, React-Router, Context API                         | React SPA        |
 | Shopping Cart     | are neat     | react, typeScript, styled-components, material-ui        | React-TS SPA        |
 | Others in Repo... | ...          | ...                                                      | ...          |
  
