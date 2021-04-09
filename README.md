@@ -71,7 +71,7 @@
 
 | Проект           | GitHub Pages  | Технологии                                               |  Категория |
 | -------------------|:-----------------:|:---------------------------------------------------: |----------------------------------:|
-| Clothing Shop    | right-aligned |react, react-redux, react-router, redux-logger, reselect  | React SPA    |
+| <a href="https://github.com/KLIJIN/clothing_shop">Clothing Shop</a>|  <a href="https://klijin.github.io/clothing_shop/"> Git Pages Clothing Shop</a>| react, react-redux, react-router, redux-logger, reselect  | React SPA    |
 | <a href="https://github.com/KLIJIN/netflix-clone">Netflix Clone</a>|  <a href="https://klijin.github.io/netflix-clone/"> Git Pages Netflix Clone</a>| React, React-Router, Context API                         |React SPA      |
 | <a href="https://github.com/KLIJIN/Kanban-Board"> Kanban Dashboard </a> | <a href="https://klijin.github.io/Kanban-Board/"> Git Pages Kanban Dashboard </a>  | react, redux, react-beautiful-dnd, SCSS|  React SPA|
 | <a href="https://github.com/KLIJIN/CocktailsDB_React_SPA/"> Cocktails DB </a> | <a href="https://klijin.github.io/CocktailsDB_React_SPA/"> Git Pages Cocktails DB </a>| react, React-Router, Context API|  React SPA|
