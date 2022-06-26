@@ -3,7 +3,7 @@
 ### Languages and Tools:
 
  - JavaScript, TypeScript
- - React, React-Hooks, React-Router, Redux
+ - React, React-Hooks, React-Router, Redux, RTK, Recoil
  - CSS, SASS/SCSS,  Flex, Grid
  - Git, Webpack, VSCode
 
