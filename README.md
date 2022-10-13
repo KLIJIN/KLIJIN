@@ -11,8 +11,9 @@
 <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />   <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />    <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />    <img  width="24px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />   <img width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />  <img  width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />    <img  width="24px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /> <img  width="24px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" /> 
 <img  width="24px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
+ <img  width="24px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 <img  width="24px" src="https://docs.nestjs.com/assets/logo-small.svg" />
- <img  width="24px" src="https://img2.pngdownload.id/20180619/vjl/kisspng-node-js-angularjs-react-javascript-npm-node-js-5b28f6111cb2c9.1605132215294110891176.jpg" />
+
  
 
 
