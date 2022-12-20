@@ -3,7 +3,7 @@
 ### Languages and Tools:
 
  - JavaScript, TypeScript;
- - React, React-Hooks, React-Router, Redux, RTK, Recoil;
+ - React, React-Hooks, React-Router, Redux, RTK, Recoil, Effector;
  - CSS, SASS/SCSS, Flex, Grid;
  - Node.js, Express.js, NestJS;
  - Git, Webpack, VSCode;
